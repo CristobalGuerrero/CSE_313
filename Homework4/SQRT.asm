@@ -1,0 +1,4 @@
+.ORIG x3200
+SQRT	ADD R0, R0, #0
+	RET
+	.END
